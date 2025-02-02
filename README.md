@@ -2,6 +2,12 @@
 
 This project is a **dynamic and interactive accordion-based questionnaire** built using **React and Styled Components**. It allows users to **toggle sections, answer questions, and save/cancel responses** efficiently. The state is managed using **React's useReducer hook** .
 
+## 🌐 Live Demo
+
+🔗 **Live URL:** [View Here](https://accordion-questionnaire.netlify.app/)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **React** – Component-based UI structure
